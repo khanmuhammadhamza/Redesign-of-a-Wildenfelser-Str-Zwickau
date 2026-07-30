@@ -1,4 +1,3 @@
-# Urban Traffic Facilities Design Project (KFT09070)
 ## Redesign of Wildenfelser Straße (S 283), Zwickau
 
 This project, developed for the Urban Traffic Facilities Design Project (KFT09070) course at Westsächsische Hochschule Zwickau (WHZ), focuses on the redesign of Wildenfelser Straße (S 283) in Zwickau, Germany. It aims to establish safe active transit infrastructure—including dedicated cycling facilities, barrier-free pedestrian crossings, and optimized signalized junctions—along the main urban arterial corridor.
@@ -38,7 +37,7 @@ This project, developed for the Urban Traffic Facilities Design Project (KFT0907
    * **Cycling Track:** Dedicated two-way continuous cycle track on the south side (3.25 m).
 3. **Junction & Crossing Optimization:**
    * Introduced structural left-turn pockets to reduce congestion and rear-end accidents.
-   * Integrated standard-compliant pedestrian crosswalks (*Zebrastreifen*), cycle crossings (*Radfahrerfurten*), and shared crossings.
+   * Integrated standard-compliant pedestrian crosswalks, cycle crossings (*Radfahrerfurten*), and shared crossings.
    * Developed a demand-oriented signal control program with RiLSA-compliant intergreen conflict matrices.
 4. **Noise Reduction:** Implemented lane narrowing, traffic calming, low-noise pavement materials, and active modal shifts.
 
@@ -51,4 +50,3 @@ This project, developed for the Urban Traffic Facilities Design Project (KFT0907
 * **RIN:** Richtlinien für integrierte Netzgestaltung.
 * **ERA:** Empfehlungen für Radverkehrsanlagen
 * **StVO:** Straßenverkehrs-Ordnung
-* 
